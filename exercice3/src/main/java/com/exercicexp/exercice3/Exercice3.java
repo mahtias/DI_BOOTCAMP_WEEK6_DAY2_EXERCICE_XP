@@ -6,7 +6,7 @@ package com.exercicexp.exercice3;
 
 /**
  *
- * @author kernel-mk
+ * @author A.K.M
  */
 public class Exercice3 {
 
